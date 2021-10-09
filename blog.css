@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(218, 186, 207);
+}
+.container1{
+width:10%;
+float:left;
+}
+.container1{
+    
+width:20%;
+float: center;
+}
+.header{
+    color:red;
+    text-align: left;
+    font-size:30px;
+}
+.link{
+    text-align: center;
+}
+#blog{
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:270px;
+    padding-right:270px;
+}
